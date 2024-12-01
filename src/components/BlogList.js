@@ -1,14 +1,14 @@
 import React from "react";
 import { View, Text, StyleSheet } from "react-native";
 
-const BlogCategory= () => {
+const BlogList = () => {
     return (
         <View>
-            <Text>BlogCategory</Text>
+            <Text>BlogList</Text>
         </View>
     );
 };
 
 const styles = StyleSheet.create({});
 
-export default BlogCategory;
+export default BlogList;
