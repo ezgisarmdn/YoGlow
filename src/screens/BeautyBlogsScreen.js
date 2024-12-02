@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { View, Text, StyleSheet, TouchableOpacity, FlatList, Image} from "react-native";
 import SearchBar from "../components/SearchBar";
-import BlogCard from "../components/BlogCard";
+import BlogList from "../components/BlogList";
 import mockData from "../data/mockData.json";
 
 const BeautyBlogsScreen = () => {
@@ -16,6 +16,12 @@ const BeautyBlogsScreen = () => {
     setBlogData(mockData);
   }, []);
 
+  const filterDataByCategory = (category) => {
+    // price === 'Popular' || 'Trending' || 'Recent'
+    return blogData.filter((blogItem) => {
+      return blogItem.category === category;
+    });
+  };
 
   return (
     <View style={{ backgroundColor: "#fff", flex: 1 }}>
@@ -42,15 +48,7 @@ const BeautyBlogsScreen = () => {
           </TouchableOpacity>
         ))}
       </View>
-      <FlatList
-        data={blogData}
-        renderItem={({item}) => {
-           <BlogCard
-              result={item}
-           />
-      }}
-        keyExtractor={(item) => item.name} // Benzersiz bir anahtar kullanın
-      />
+      <BlogList data={filterDataByCategory(selectedCategory)}/>
     </View>
   );
 };
@@ -60,7 +58,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-between",
     marginHorizontal: 15,
-    marginVertical: 10,
+    marginVertical: 15,
   },
   categoryButton: {
     padding: 10,

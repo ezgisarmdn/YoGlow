@@ -6,7 +6,8 @@
       "image": "https://images.pexels.com/photos/5268049/pexels-photo-5268049.jpeg",
       "category": "Popular",
       "view": 1500,
-      "isRecorded": true
+      "isRecorded": true,
+      "explanation": "Natural remedies for glowing skin."
     },
     {
       "name": "Best Makeup Hacks",
@@ -15,7 +16,8 @@
       "image": "https://images.pexels.com/photos/4112374/pexels-photo-4112374.jpeg",
       "category": "Trending",
       "view": 2500,
-      "isRecorded": false
+      "isRecorded": false,
+      "explanation": "Quick makeup hacks for any level."
     },
     {
       "name": "5-Minute Morning Skincare",
@@ -24,7 +26,8 @@
       "image": "https://images.pexels.com/photos/6058002/pexels-photo-6058002.jpeg",
       "category": "Recent",
       "view": 2000,
-      "isRecorded": true
+      "isRecorded": true,
+      "explanation": "A quick skincare routine for busy mornings."
     },
     {
       "name": "Top 10 Beauty Products for 2024",
@@ -33,7 +36,8 @@
       "image": "https://images.pexels.com/photos/4772533/pexels-photo-4772533.jpeg",
       "category": "Popular",
       "view": 3500,
-      "isRecorded": false
+      "isRecorded": false,
+      "explanation": "Must-have beauty products for 2024."
     },
     {
       "name": "Achieve Perfect Eyebrows",
@@ -42,7 +46,8 @@
       "image": "https://images.pexels.com/photos/4576891/pexels-photo-4576891.jpeg",
       "category": "Trending",
       "view": 1800,
-      "isRecorded": true
+      "isRecorded": true,
+      "explanation": "How to shape perfect eyebrows."
     },
     {
       "name": "The Secret to Clear Skin",
@@ -51,7 +56,8 @@
       "image": "https://images.pexels.com/photos/3064074/pexels-photo-3064074.jpeg",
       "category": "Recent",
       "view": 2200,
-      "isRecorded": false
+      "isRecorded": false,
+      "explanation": "Secrets to achieving clear skin."
     },
     {
       "name": "The Best Foundation for Oily Skin",
@@ -60,7 +66,8 @@
       "image": "https://images.pexels.com/photos/3581260/pexels-photo-3581260.jpeg",
       "category": "Popular",
       "view": 2300,
-      "isRecorded": true
+      "isRecorded": true,
+      "explanation": "Foundations that control oil all day."
     },
     {
       "name": "10 Haircare Tips for Healthy Hair",
@@ -69,7 +76,8 @@
       "image": "https://images.pexels.com/photos/1804796/pexels-photo-1804796.jpeg",
       "category": "Trending",
       "view": 1700,
-      "isRecorded": false
+      "isRecorded": false,
+      "explanation": "10 tips for healthier hair."
     },
     {
       "name": "Summer Skincare Routine",
@@ -78,7 +86,8 @@
       "image": "https://images.pexels.com/photos/5960847/pexels-photo-5960847.jpeg",
       "category": "Recent",
       "view": 1500,
-      "isRecorded": true
+      "isRecorded": true,
+      "explanation": "Skincare routine to protect your skin from the sun."
     },
     {
       "name": "How to Contour Like a Pro",
@@ -87,7 +96,8 @@
       "image": "https://images.pexels.com/photos/3774370/pexels-photo-3774370.jpeg",
       "category": "Popular",
       "view": 3000,
-      "isRecorded": false
+      "isRecorded": false,
+      "explanation": "Master the art of contouring."
     },
     {
       "name": "The Best Lipsticks for Every Occasion",
@@ -96,7 +106,8 @@
       "image": "https://images.pexels.com/photos/4713070/pexels-photo-4713070.jpeg",
       "category": "Trending",
       "view": 2200,
-      "isRecorded": true
+      "isRecorded": true,
+      "explanation": "Lipstick shades for every occasion."
     },
     {
       "name": "Skincare Myths Debunked",
@@ -105,7 +116,8 @@
       "image": "https://images.pexels.com/photos/6141525/pexels-photo-6141525.jpeg",
       "category": "Recent",
       "view": 1400,
-      "isRecorded": false
+      "isRecorded": false,
+      "explanation": "Debunking common skincare myths."
     },
     {
       "name": "How to Get Rid of Dark Circles",
@@ -114,7 +126,8 @@
       "image": "https://images.pexels.com/photos/4061425/pexels-photo-4061425.jpeg",
       "category": "Popular",
       "view": 2500,
-      "isRecorded": true
+      "isRecorded": true,
+      "explanation": "Tips to reduce dark circles."
     },
     {
       "name": "Best Anti-Aging Creams for 2024",
@@ -123,7 +136,8 @@
       "image": "https://images.pexels.com/photos/4709340/pexels-photo-4709340.jpeg",
       "category": "Trending",
       "view": 1800,
-      "isRecorded": false
+      "isRecorded": false,
+      "explanation": "Best anti-aging creams for 2024."
     },
     {
       "name": "How to Avoid Hair Damage",
@@ -132,7 +146,8 @@
       "image": "https://images.pexels.com/photos/4251182/pexels-photo-4251182.jpeg",
       "category": "Recent",
       "view": 1600,
-      "isRecorded": true
+      "isRecorded": true,
+      "explanation": "Expert tips to prevent hair damage."
     },
     {
       "name": "Essential Skincare Ingredients",
@@ -141,7 +156,8 @@
       "image": "https://images.pexels.com/photos/5206336/pexels-photo-5206336.jpeg",
       "category": "Popular",
       "view": 2800,
-      "isRecorded": false
+      "isRecorded": false,
+      "explanation": "Key skincare ingredients to look for."
     },
     {
       "name": "Nail Care Tips You Need to Know",
@@ -150,7 +166,8 @@
       "image": "https://images.pexels.com/photos/6079509/pexels-photo-6079509.jpeg",
       "category": "Trending",
       "view": 1400,
-      "isRecorded": true
+      "isRecorded": true,
+      "explanation": "Essential tips for healthy nails."
     },
     {
       "name": "Best Face Masks for Every Skin Type",
@@ -159,7 +176,7 @@
       "image": "https://images.pexels.com/photos/3708792/pexels-photo-3708792.jpeg",
       "category": "Recent",
       "view": 1300,
-      "isRecorded": false
+      "isRecorded": false,
+      "explanation": "Best face masks for your skin type."
     }
-  ]
-  
+]
