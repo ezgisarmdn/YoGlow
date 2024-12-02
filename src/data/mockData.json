@@ -1,0 +1,182 @@
+[
+    {
+      "name": "Glowing Skin Tips",
+      "date": "2024-12-01T10:00:00Z",
+      "text": "Discover the best natural remedies for glowing skin. These tips will help you achieve that dewy look every woman dreams of.",
+      "image": "https://images.pexels.com/photos/5268049/pexels-photo-5268049.jpeg",
+      "category": "Popular",
+      "view": 1500,
+      "isRecorded": true,
+      "explanation": "Natural remedies for glowing skin."
+    },
+    {
+      "name": "Best Makeup Hacks",
+      "date": "2024-11-30T14:30:00Z",
+      "text": "Quick and easy makeup hacks that will transform your routine. Perfect for beginners and experts alike!",
+      "image": "https://images.pexels.com/photos/4112374/pexels-photo-4112374.jpeg",
+      "category": "Trending",
+      "view": 2500,
+      "isRecorded": false,
+      "explanation": "Quick makeup hacks for any level."
+    },
+    {
+      "name": "5-Minute Morning Skincare",
+      "date": "2024-11-29T09:15:00Z",
+      "text": "Short on time? Try this quick skincare routine to keep your skin healthy and glowing throughout the day.",
+      "image": "https://images.pexels.com/photos/6058002/pexels-photo-6058002.jpeg",
+      "category": "Recent",
+      "view": 2000,
+      "isRecorded": true,
+      "explanation": "A quick skincare routine for busy mornings."
+    },
+    {
+      "name": "Top 10 Beauty Products for 2024",
+      "date": "2024-11-28T16:00:00Z",
+      "text": "The ultimate list of beauty products you need to add to your collection this year. From skincare to makeup, we have you covered!",
+      "image": "https://images.pexels.com/photos/4772533/pexels-photo-4772533.jpeg",
+      "category": "Popular",
+      "view": 3500,
+      "isRecorded": false,
+      "explanation": "Must-have beauty products for 2024."
+    },
+    {
+      "name": "Achieve Perfect Eyebrows",
+      "date": "2024-11-27T12:20:00Z",
+      "text": "Step-by-step guide to achieving perfectly shaped eyebrows. Whether you like them natural or bold, this guide has you covered.",
+      "image": "https://images.pexels.com/photos/4576891/pexels-photo-4576891.jpeg",
+      "category": "Trending",
+      "view": 1800,
+      "isRecorded": true,
+      "explanation": "How to shape perfect eyebrows."
+    },
+    {
+      "name": "The Secret to Clear Skin",
+      "date": "2024-11-26T08:40:00Z",
+      "text": "Clear skin doesn't have to be a dream. Learn the secrets to achieving and maintaining a blemish-free complexion.",
+      "image": "https://images.pexels.com/photos/3064074/pexels-photo-3064074.jpeg",
+      "category": "Recent",
+      "view": 2200,
+      "isRecorded": false,
+      "explanation": "Secrets to achieving clear skin."
+    },
+    {
+      "name": "The Best Foundation for Oily Skin",
+      "date": "2024-11-25T10:10:00Z",
+      "text": "If you struggle with oily skin, find out which foundations will keep you shine-free all day long!",
+      "image": "https://images.pexels.com/photos/3581260/pexels-photo-3581260.jpeg",
+      "category": "Popular",
+      "view": 2300,
+      "isRecorded": true,
+      "explanation": "Foundations that control oil all day."
+    },
+    {
+      "name": "10 Haircare Tips for Healthy Hair",
+      "date": "2024-11-24T14:55:00Z",
+      "text": "These 10 haircare tips will help you achieve the luscious, healthy hair you've always wanted.",
+      "image": "https://images.pexels.com/photos/1804796/pexels-photo-1804796.jpeg",
+      "category": "Trending",
+      "view": 1700,
+      "isRecorded": false,
+      "explanation": "10 tips for healthier hair."
+    },
+    {
+      "name": "Summer Skincare Routine",
+      "date": "2024-11-23T13:30:00Z",
+      "text": "Prepare your skin for the sunny months with a routine that protects and nourishes your skin against the heat.",
+      "image": "https://images.pexels.com/photos/5960847/pexels-photo-5960847.jpeg",
+      "category": "Recent",
+      "view": 1500,
+      "isRecorded": true,
+      "explanation": "Skincare routine to protect your skin from the sun."
+    },
+    {
+      "name": "How to Contour Like a Pro",
+      "date": "2024-11-22T15:40:00Z",
+      "text": "Learn the secrets of perfect contouring with these simple steps and makeup tools. Get a sculpted look effortlessly.",
+      "image": "https://images.pexels.com/photos/3774370/pexels-photo-3774370.jpeg",
+      "category": "Popular",
+      "view": 3000,
+      "isRecorded": false,
+      "explanation": "Master the art of contouring."
+    },
+    {
+      "name": "The Best Lipsticks for Every Occasion",
+      "date": "2024-11-21T17:00:00Z",
+      "text": "Find out which lipstick shades are perfect for work, parties, and everything in between!",
+      "image": "https://images.pexels.com/photos/4713070/pexels-photo-4713070.jpeg",
+      "category": "Trending",
+      "view": 2200,
+      "isRecorded": true,
+      "explanation": "Lipstick shades for every occasion."
+    },
+    {
+      "name": "Skincare Myths Debunked",
+      "date": "2024-11-20T19:30:00Z",
+      "text": "Stop falling for skincare myths! We debunk common misconceptions that could be harming your skin.",
+      "image": "https://images.pexels.com/photos/6141525/pexels-photo-6141525.jpeg",
+      "category": "Recent",
+      "view": 1400,
+      "isRecorded": false,
+      "explanation": "Debunking common skincare myths."
+    },
+    {
+      "name": "How to Get Rid of Dark Circles",
+      "date": "2024-11-19T18:15:00Z",
+      "text": "Dark circles can make you look tired. Learn how to get rid of them for a refreshed, awake look.",
+      "image": "https://images.pexels.com/photos/4061425/pexels-photo-4061425.jpeg",
+      "category": "Popular",
+      "view": 2500,
+      "isRecorded": true,
+      "explanation": "Tips to reduce dark circles."
+    },
+    {
+      "name": "Best Anti-Aging Creams for 2024",
+      "date": "2024-11-18T11:30:00Z",
+      "text": "Check out the most effective anti-aging creams for keeping your skin youthful and radiant.",
+      "image": "https://images.pexels.com/photos/4709340/pexels-photo-4709340.jpeg",
+      "category": "Trending",
+      "view": 1800,
+      "isRecorded": false,
+      "explanation": "Best anti-aging creams for 2024."
+    },
+    {
+      "name": "How to Avoid Hair Damage",
+      "date": "2024-11-17T09:00:00Z",
+      "text": "Prevent hair damage with these expert tips on hair care, styling, and treatment.",
+      "image": "https://images.pexels.com/photos/4251182/pexels-photo-4251182.jpeg",
+      "category": "Recent",
+      "view": 1600,
+      "isRecorded": true,
+      "explanation": "Expert tips to prevent hair damage."
+    },
+    {
+      "name": "Essential Skincare Ingredients",
+      "date": "2024-11-16T13:45:00Z",
+      "text": "Discover the essential skincare ingredients that you should look for in your beauty products.",
+      "image": "https://images.pexels.com/photos/5206336/pexels-photo-5206336.jpeg",
+      "category": "Popular",
+      "view": 2800,
+      "isRecorded": false,
+      "explanation": "Key skincare ingredients to look for."
+    },
+    {
+      "name": "Nail Care Tips You Need to Know",
+      "date": "2024-11-15T08:50:00Z",
+      "text": "Nail care is essential for healthy, beautiful nails. Check out these nail care tips and tricks.",
+      "image": "https://images.pexels.com/photos/6079509/pexels-photo-6079509.jpeg",
+      "category": "Trending",
+      "view": 1400,
+      "isRecorded": true,
+      "explanation": "Essential tips for healthy nails."
+    },
+    {
+      "name": "Best Face Masks for Every Skin Type",
+      "date": "2024-11-14T16:25:00Z",
+      "text": "Whether you have dry, oily, or sensitive skin, we’ve got the best face mask recommendations for you.",
+      "image": "https://images.pexels.com/photos/3708792/pexels-photo-3708792.jpeg",
+      "category": "Recent",
+      "view": 1300,
+      "isRecorded": false,
+      "explanation": "Best face masks for your skin type."
+    }
+]

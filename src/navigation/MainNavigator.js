@@ -57,7 +57,7 @@ export default function MainNavigator() {
     return (
         <NavigationContainer>
             <Tab.Navigator
-               initialRouteName='Home'
+               initialRouteName='HomePage'
                screenOptions={{
                 headerShown: false,
                 tabBarActiveTintColor: '#FF77B7',
@@ -71,7 +71,7 @@ export default function MainNavigator() {
                }}
             >
                 <Tab.Screen
-                   name='Home'
+                   name='HomePage'
                    component={HomeStackNavigator}
                    options={{
                    tabBarIcon: ({focused}) => (
