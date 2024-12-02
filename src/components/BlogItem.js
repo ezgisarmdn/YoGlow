@@ -18,13 +18,13 @@ const BlogItem = ({ result }) => {
             <MaterialCommunityIcons name="eye" size={17} color="#6D5D6E" />
             <Text style={styles.views}>{result.view}</Text>
           </View>
-          <TouchableOpacity style={styles.bookmarked}>
+          <View style={styles.bookmarked}>
             {result.isRecorded 
             ? 
             <FontAwesome name="bookmark" size={17} color="#393646" /> 
             : 
             <FontAwesome name="bookmark-o" size={17} color="#393646" />}
-          </TouchableOpacity>
+          </View>
         </View>
       </View>
     </View>
